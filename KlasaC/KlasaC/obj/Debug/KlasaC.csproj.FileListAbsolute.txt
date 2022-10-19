@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\bin\Debug\KlasaC.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\bin\Debug\KlasaC.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\bin\Debug\KlasaC.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\obj\Debug\KlasaC.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\obj\Debug\KlasaC.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\KlasaC\KlasaC\obj\Debug\KlasaC.pdb
